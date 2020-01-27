@@ -1,2 +1,1 @@
-# CPE322
-Brandon Ip Repository
+# CPE-322
